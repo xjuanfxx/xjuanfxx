@@ -25,8 +25,8 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xjuanfxx&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjuanfxx&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xjuanfxx&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xjuanfxx&layout=compact&theme=radical&hide_border=true" height="150"/>
 </div>
 
 <div align="center">
