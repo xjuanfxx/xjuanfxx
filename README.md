@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Juan+👋;Welcome+to+my+profile!+🚀;Always+learning+something+new+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+JuanFX+👋;Welcome+to+my+profile!+🚀;Always+learning+something+new+✨" alt="Typing SVG" />
 </div>
 
 ---
@@ -7,10 +7,7 @@
 ### 🙋‍♂️ About Me
 
 - 🌱 I'm **exploring the world of coding** and loving every step
-- 🔭 Currently learning **Python, JavaScript & Java**
 - ⚡ Fun fact: Every expert was once a beginner!
-- 📍 Based in **México** 🇲🇽
-
 ---
 
 ### 🛠️ Technologies I'm Exploring
