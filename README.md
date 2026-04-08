@@ -30,13 +30,13 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=xjuanfxx&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xjuanfxx&theme=radical&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pIojeR0PcEBkR/giphy.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" />
   
   ### 🌟 "The journey of a thousand miles begins with a single commit" 🌟
 </div>
