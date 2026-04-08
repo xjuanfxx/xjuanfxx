@@ -7,8 +7,7 @@
 ### 🙋‍♂️ About Me
 
 - 🌱 I'm **exploring the world of coding** and loving every step
-- 🎵 Intro & **Beat Maker** in my free time
-- ⚡ Fun fact: Every expert was once a beginner!
+- 🎵 **Intro & Beat Maker** in my free time
 
 ### 🛠️ Technologies I'm Exploring
 
