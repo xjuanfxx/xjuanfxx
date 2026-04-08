@@ -36,7 +36,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   
   ### 🌟 "The journey of a thousand miles begins with a single commit" 🌟
 </div>
