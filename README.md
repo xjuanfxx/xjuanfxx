@@ -39,3 +39,15 @@
   
   ### 🌟 "The journey of a thousand miles begins with a single commit" 🌟
 </div>
+
+---
+
+### 🔗 Find Me Around
+
+<div align="center">
+
+[![YouTube JuanFX](https://img.shields.io/badge/YouTube-JuanFX-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JuanFX)
+[![YouTube prodxvex](https://img.shields.io/badge/YouTube-prodxvex-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prodxvex)
+[![Beacons](https://img.shields.io/badge/Beacons-xjuanfx-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/xjuanfx)
+
+</div>
