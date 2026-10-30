@@ -10,7 +10,8 @@
 
 Hey, I'm **JuanFX** 👋 — a motion designer who got curious about what happens
 *inside* the tools. These days that means writing After Effects plugins in C++
-with GPU rendering, and in between I make intros and beats as **prodxvex**.
+with GPU rendering and shipping desktop apps with **[Kittora](https://github.com/Kittora)** — and in
+between I make intros and beats as **prodxvex**.
 
 ## ⚡ Now building: Flinch
 
@@ -34,10 +35,52 @@ twitches that fire on their own and ease in and out over a few frames.
   <img src="https://img.shields.io/badge/GPU-CUDA%20·%20OpenCL%20·%20Metal-7B5CFF?style=flat-square&logo=nvidia&logoColor=white&labelColor=1A1B26" alt="GPU">
 </p>
 
+## 🐾 Kittora
+
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://github.com/Kittora"><img src="assets/kittora-icon.png" alt="Kittora" width="96"></a>
+    </td>
+    <td valign="middle">
+      <b><a href="https://github.com/Kittora">Kittora</a></b> is where I build tools with <a href="https://github.com/notTao">Adaki</a>: <i>small tools for creators, built with care.</i>
+      No bloatware, no unnecessary telemetry — just good UX and attention to detail.
+      The focus right now is multimedia: downloading, converting and editing.
+    </td>
+  </tr>
+</table>
+
+### 🐱 LiquidCat
+
+<table>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <a href="https://github.com/Kittora/LiquidCat"><img src="assets/liquidcat-logo.png" alt="LiquidCat" width="96"></a>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/Kittora/LiquidCat">LiquidCat</a></b> is a native desktop app to <b>download, convert and re-encode</b> media,
+      powered by <code>yt-dlp</code> and <code>FFmpeg</code>. A from-scratch rewrite in <b>Rust + Slint</b> — no WebView, one small executable.
+      <br><br>
+      <a href="https://github.com/Kittora/LiquidCat/releases/latest"><img src="https://img.shields.io/github/v/release/Kittora/LiquidCat?style=flat-square&label=latest&color=CBA6F7&labelColor=1A1B26" alt="Latest release"></a>
+      <img src="https://img.shields.io/badge/Rust-Slint-CBA6F7?style=flat-square&logo=rust&logoColor=white&labelColor=1A1B26" alt="Rust + Slint">
+      <img src="https://img.shields.io/badge/Windows%20·%20Linux%20·%20macOS-CBA6F7?style=flat-square&labelColor=1A1B26" alt="Windows, Linux, macOS">
+    </td>
+  </tr>
+</table>
+
+- ⚡ GPU encoding across vendors: **NVENC, AMF, Quick Sync, VAAPI, VideoToolbox**
+- 📥 Batch import, job queue and history, subtitles, thumbnails and metadata
+- ✂️ Trim segments without leaving the app
+- 🎨 14 themes and 6 languages
+
+<a href="https://github.com/Kittora/LiquidCat">
+  <img src="assets/liquidcat-downloader.png" alt="LiquidCat's downloader" width="100%">
+</a>
+
 ## 🧰 Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,cmake,py,js,nodejs,html,css,git,github,githubactions,ae,pr,ps&theme=dark" alt="C++, C, CMake, Python, JavaScript, Node.js, HTML, CSS, Git, GitHub, GitHub Actions, After Effects, Premiere Pro, Photoshop">
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust,cmake,py,js,nodejs,html,css,git,github,githubactions,ae,pr,ps&theme=dark" alt="C++, C, Rust, CMake, Python, JavaScript, Node.js, HTML, CSS, Git, GitHub, GitHub Actions, After Effects, Premiere Pro, Photoshop">
 </p>
 
 ## 🗂️ Other things I've made
@@ -45,6 +88,7 @@ twitches that fire on their own and ease in and out over a few frames.
 | | |
 |---|---|
 | 🎞️ **[Flinch](https://github.com/xjuanfxx/flinch)** | Random jolts for After Effects — CPU + GPU (CUDA, OpenCL, Metal) |
+| 🐱 **[LiquidCat](https://github.com/Kittora/LiquidCat)** | Download, convert and re-encode media — Rust + Slint, with Kittora |
 | 📸 **[JuanFX-Lightroom](https://github.com/xjuanfxx/JuanFX-Lightroom)** | Version history and updates for my Lightroom presets |
 | 😀 **[EmojiReplace](https://github.com/xjuanfxx/EmojiReplace)** | Swap Discord's emojis for another provider's (Apple, Facebook…) |
 
