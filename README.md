@@ -1,52 +1,58 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+JuanFX+👋;Welcome+to+my+profile!+🚀;Always+learning+something+new+✨" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="assets/header.svg" alt="JuanFX — motion design, After Effects plugins and beats" width="100%">
+</p>
 
----
+<p align="center">
+  <a href="https://www.youtube.com/@JuanFX"><img src="https://img.shields.io/badge/YouTube-JuanFX-FF0033?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1B26" alt="YouTube JuanFX"></a>
+  <a href="https://www.youtube.com/@prodxvex"><img src="https://img.shields.io/badge/YouTube-prodxvex-FF0033?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1B26" alt="YouTube prodxvex"></a>
+  <a href="https://beacons.ai/xjuanfx"><img src="https://img.shields.io/badge/Beacons-xjuanfx-B8FF2E?style=flat-square&logo=linktree&logoColor=white&labelColor=1A1B26" alt="Beacons"></a>
+</p>
 
-### 🙋‍♂️ About Me
+Hey, I'm **JuanFX** 👋 — a motion designer who got curious about what happens
+*inside* the tools. These days that means writing After Effects plugins in C++
+with GPU rendering, and in between I make intros and beats as **prodxvex**.
 
-- 🌱 I'm **exploring the world of coding** and loving every step
-- 🎵 **Intro & Beat Maker** in my free time
+## ⚡ Now building: Flinch
 
-### 🛠️ Technologies I'm Exploring
+<a href="https://github.com/xjuanfxx/flinch">
+  <img src="assets/flinch-banner.png" alt="Flinch — random jolts for After Effects" width="100%">
+</a>
 
-<div align="center">
+**[Flinch](https://github.com/xjuanfxx/flinch)** is an After Effects effect that adds short, random,
+involuntary-looking jolts to a layer — **blur, color, light, scale, slide and time**
+twitches that fire on their own and ease in and out over a few frames.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- 🎛️ Six operators, each with its own controls and seed; deterministic, repeatable renders
+- 🚀 GPU rendering written once and compiled for **CUDA**, **OpenCL** and **Metal**, with CPU fallback
+- 🎨 8, 16 and 32-bit float color, SmartFX and multi-frame rendering
+- 💻 Windows x64 and macOS universal (Apple Silicon + Intel)
 
-</div>
+<p>
+  <a href="https://github.com/xjuanfxx/flinch/releases/latest"><img src="https://img.shields.io/github/v/release/xjuanfxx/flinch?style=flat-square&label=latest&color=B8FF2E&labelColor=1A1B26" alt="Latest release"></a>
+  <img src="https://img.shields.io/badge/After_Effects-2022%2B-7B5CFF?style=flat-square&logo=adobeaftereffects&logoColor=white&labelColor=1A1B26" alt="After Effects 2022+">
+  <img src="https://img.shields.io/badge/C%2B%2B-17-7B5CFF?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1A1B26" alt="C++">
+  <img src="https://img.shields.io/badge/GPU-CUDA%20·%20OpenCL%20·%20Metal-7B5CFF?style=flat-square&logo=nvidia&logoColor=white&labelColor=1A1B26" alt="GPU">
+</p>
 
----
+## 🧰 Toolbox
 
-### 📊 My GitHub Stats
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,cmake,py,js,nodejs,html,css,git,github,githubactions,ae,pr,ps&theme=dark" alt="C++, C, CMake, Python, JavaScript, Node.js, HTML, CSS, Git, GitHub, GitHub Actions, After Effects, Premiere Pro, Photoshop">
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xjuanfxx&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xjuanfxx&layout=compact&theme=radical&hide_border=true" height="150"/>
-</div>
+## 🗂️ Other things I've made
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xjuanfxx&theme=radical&hide_border=true" />
-</div>
+| | |
+|---|---|
+| 🎞️ **[Flinch](https://github.com/xjuanfxx/flinch)** | Random jolts for After Effects — CPU + GPU (CUDA, OpenCL, Metal) |
+| 📸 **[JuanFX-Lightroom](https://github.com/xjuanfxx/JuanFX-Lightroom)** | Version history and updates for my Lightroom presets |
+| 😀 **[EmojiReplace](https://github.com/xjuanfxx/EmojiReplace)** | Swap Discord's emojis for another provider's (Apple, Facebook…) |
 
----
+## 📊 Activity
 
-<div align="center">
-  
-  ### 🌟 "The journey of a thousand miles begins with a single commit" 🌟
-</div>
+<p align="center">
+  <img src="assets/activity.svg" alt="GitHub activity" width="100%">
+  <img src="assets/languages.svg" alt="Top languages" width="100%">
+</p>
 
----
-
-### 🔗 Find Me Around
-
-<div align="center">
-
-[![YouTube JuanFX](https://img.shields.io/badge/YouTube-JuanFX-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JuanFX)
-[![YouTube prodxvex](https://img.shields.io/badge/YouTube-prodxvex-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prodxvex)
-[![Beacons](https://img.shields.io/badge/Beacons-xjuanfx-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/xjuanfx)
-
-</div>
+<sub>Cards are rendered by this repo's own <a href=".github/workflows/cards.yml">workflow</a> every day — no third-party image services.</sub>
