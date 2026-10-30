@@ -16,11 +16,11 @@ from pathlib import Path
 USER = sys.argv[1] if len(sys.argv) > 1 else "xjuanfxx"
 OUT = Path(__file__).resolve().parent.parent / "assets"
 
-BG, PANEL, LINE = "#14151D", "#1A1B26", "#262838"
-INK, MUTED = "#F5F2EA", "#8C8FA6"
-LIME, VIOLET = "#B8FF2E", "#7B5CFF"
-SANS = "'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif"
-MONO = "'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace"
+# Catppuccin Mocha, the palette LiquidCat and the profile header use.
+BASE, CRUST, LINE = "#1E1E2E", "#11111B", "#313244"
+INK, MUTED = "#CDD6F4", "#A6ADC8"
+PINK, MAUVE, BLUE = "#F5C2E7", "#CBA6F7", "#89B4FA"
+SANS = "'Nunito', 'Segoe UI', 'SF Pro Rounded', Ubuntu, 'Helvetica Neue', Arial, sans-serif"
 
 
 def gql(query, **variables):
@@ -96,16 +96,35 @@ def svg(width, height, body, title):
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="{escape(title)}">
 <title>{escape(title)}</title>
 <style>
-  .h {{ font: 700 13px {MONO}; letter-spacing: 2.5px; fill: {MUTED}; }}
-  .n {{ font: italic 900 34px {SANS}; fill: {INK}; }}
-  .l {{ font: 600 12px {MONO}; letter-spacing: 1px; fill: {MUTED}; }}
+  .h {{ font: 700 13px {SANS}; letter-spacing: 3px; fill: {MUTED}; }}
+  .n {{ font: 800 36px {SANS}; fill: {INK}; }}
+  .l {{ font: 600 12px {SANS}; letter-spacing: 1.2px; fill: {MUTED}; }}
   .s {{ font: 600 13px {SANS}; fill: {INK}; }}
   .bar {{ transform-box: fill-box; transform-origin: bottom; animation: grow .9s cubic-bezier(.2,.8,.2,1) both; }}
   @keyframes grow {{ from {{ transform: scaleY(0); }} }}
   .fade {{ animation: fade .8s ease-out both; }}
   @keyframes fade {{ from {{ opacity: 0; }} }}
 </style>
-<rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="14" fill="{BG}" stroke="{LINE}"/>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="{BASE}"/><stop offset="1" stop-color="{CRUST}"/>
+  </linearGradient>
+  <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+    <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.05"/>
+    <stop offset="1" stop-color="{MAUVE}" stop-opacity="0.3"/>
+  </linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+  <clipPath id="frame"><rect width="{width}" height="{height}" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="{width}" height="{height}" fill="url(#bg)"/>
+  <g filter="url(#blur)" opacity="0.35">
+    <circle cx="{width * 0.1:.0f}" cy="0" r="110" fill="{MAUVE}"/>
+    <circle cx="{width * 0.92:.0f}" cy="{height}" r="120" fill="{PINK}"/>
+  </g>
+</g>
+<rect x="0.75" y="0.75" width="{width - 1.5}" height="{height - 1.5}" rx="21.25" fill="none" stroke="url(#rim)" stroke-width="1.5"/>
 {body}
 </svg>
 """
@@ -130,7 +149,7 @@ def activity(info, days, today):
     col = (width - 56) / len(stats)
     for i, (value, label) in enumerate(stats):
         x = 28 + i * col
-        color = LIME if i == 1 else INK
+        color = PINK if i == 1 else INK
         parts.append(f'<g class="fade" style="animation-delay:{i * 80}ms">'
                      f'<text x="{x:.0f}" y="88" class="n" fill="{color}" style="fill:{color}">{value}</text>'
                      f'<text x="{x:.0f}" y="110" class="l">{label}</text></g>')
@@ -147,7 +166,7 @@ def activity(info, days, today):
     parts.append(f'<line x1="{x0}" y1="{base + .5}" x2="{width - 28}" y2="{base + .5}" stroke="{LINE}"/>')
     for i, count in enumerate(weeks):
         bh = max(3, h * count / peak) if count else 3
-        fill = LIME if i == 51 else (VIOLET if count else LINE)
+        fill = PINK if i == 51 else (MAUVE if count else LINE)
         parts.append(f'<rect class="bar" style="animation-delay:{300 + i * 12}ms" x="{x0 + i * (bw + gap):.1f}" '
                      f'y="{base - bh:.1f}" width="{bw:.1f}" height="{bh:.1f}" rx="2" fill="{fill}">'
                      f'<title>{count} contributions</title></rect>')

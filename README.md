@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@JuanFX"><img src="https://img.shields.io/badge/YouTube-JuanFX-FF0033?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1B26" alt="YouTube JuanFX"></a>
-  <a href="https://www.youtube.com/@prodxvex"><img src="https://img.shields.io/badge/YouTube-prodxvex-FF0033?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1B26" alt="YouTube prodxvex"></a>
-  <a href="https://beacons.ai/xjuanfx"><img src="https://img.shields.io/badge/Beacons-xjuanfx-B8FF2E?style=flat-square&logo=linktree&logoColor=white&labelColor=1A1B26" alt="Beacons"></a>
+  <a href="https://www.youtube.com/@JuanFX"><img src="https://img.shields.io/badge/YouTube-JuanFX-F38BA8?style=flat-square&logo=youtube&logoColor=white&labelColor=1E1E2E" alt="YouTube JuanFX"></a>
+  <a href="https://www.youtube.com/@prodxvex"><img src="https://img.shields.io/badge/YouTube-prodxvex-F38BA8?style=flat-square&logo=youtube&logoColor=white&labelColor=1E1E2E" alt="YouTube prodxvex"></a>
+  <a href="https://beacons.ai/xjuanfx"><img src="https://img.shields.io/badge/Beacons-xjuanfx-A6E3A1?style=flat-square&logo=linktree&logoColor=white&labelColor=1E1E2E" alt="Beacons"></a>
 </p>
 
 Hey, I'm **JuanFX** 👋 — a motion designer who got curious about what happens
@@ -29,10 +29,10 @@ twitches that fire on their own and ease in and out over a few frames.
 - 💻 Windows x64 and macOS universal (Apple Silicon + Intel)
 
 <p>
-  <a href="https://github.com/xjuanfxx/flinch/releases/latest"><img src="https://img.shields.io/github/v/release/xjuanfxx/flinch?style=flat-square&label=latest&color=B8FF2E&labelColor=1A1B26" alt="Latest release"></a>
-  <img src="https://img.shields.io/badge/After_Effects-2022%2B-7B5CFF?style=flat-square&logo=adobeaftereffects&logoColor=white&labelColor=1A1B26" alt="After Effects 2022+">
-  <img src="https://img.shields.io/badge/C%2B%2B-17-7B5CFF?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1A1B26" alt="C++">
-  <img src="https://img.shields.io/badge/GPU-CUDA%20·%20OpenCL%20·%20Metal-7B5CFF?style=flat-square&logo=nvidia&logoColor=white&labelColor=1A1B26" alt="GPU">
+  <a href="https://github.com/xjuanfxx/flinch/releases/latest"><img src="https://img.shields.io/github/v/release/xjuanfxx/flinch?style=flat-square&label=latest&color=F5C2E7&labelColor=1E1E2E" alt="Latest release"></a>
+  <img src="https://img.shields.io/badge/After_Effects-2022%2B-CBA6F7?style=flat-square&logo=adobeaftereffects&logoColor=white&labelColor=1E1E2E" alt="After Effects 2022+">
+  <img src="https://img.shields.io/badge/C%2B%2B-17-CBA6F7?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1E1E2E" alt="C++">
+  <img src="https://img.shields.io/badge/GPU-CUDA%20·%20OpenCL%20·%20Metal-CBA6F7?style=flat-square&logo=nvidia&logoColor=white&labelColor=1E1E2E" alt="GPU">
 </p>
 
 ## 🐾 Kittora
@@ -61,9 +61,9 @@ twitches that fire on their own and ease in and out over a few frames.
       <b><a href="https://github.com/Kittora/LiquidCat">LiquidCat</a></b> is a native desktop app to <b>download, convert and re-encode</b> media,
       powered by <code>yt-dlp</code> and <code>FFmpeg</code>. A from-scratch rewrite in <b>Rust + Slint</b> — no WebView, one small executable.
       <br><br>
-      <a href="https://github.com/Kittora/LiquidCat/releases/latest"><img src="https://img.shields.io/github/v/release/Kittora/LiquidCat?style=flat-square&label=latest&color=CBA6F7&labelColor=1A1B26" alt="Latest release"></a>
-      <img src="https://img.shields.io/badge/Rust-Slint-CBA6F7?style=flat-square&logo=rust&logoColor=white&labelColor=1A1B26" alt="Rust + Slint">
-      <img src="https://img.shields.io/badge/Windows%20·%20Linux%20·%20macOS-CBA6F7?style=flat-square&labelColor=1A1B26" alt="Windows, Linux, macOS">
+      <a href="https://github.com/Kittora/LiquidCat/releases/latest"><img src="https://img.shields.io/github/v/release/Kittora/LiquidCat?style=flat-square&label=latest&color=CBA6F7&labelColor=1E1E2E" alt="Latest release"></a>
+      <img src="https://img.shields.io/badge/Rust-Slint-CBA6F7?style=flat-square&logo=rust&logoColor=white&labelColor=1E1E2E" alt="Rust + Slint">
+      <img src="https://img.shields.io/badge/Windows%20·%20Linux%20·%20macOS-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="Windows, Linux, macOS">
     </td>
   </tr>
 </table>

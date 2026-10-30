@@ -1,16 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="150" viewBox="0 0 840 150" role="img" aria-label="xjuanfxx&#x27;s top languages">
 <title>xjuanfxx&#x27;s top languages</title>
 <style>
-  .h { font: 700 13px 'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace; letter-spacing: 2.5px; fill: #8C8FA6; }
-  .n { font: italic 900 34px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #F5F2EA; }
-  .l { font: 600 12px 'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace; letter-spacing: 1px; fill: #8C8FA6; }
-  .s { font: 600 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #F5F2EA; }
+  .h { font: 700 13px 'Nunito', 'Segoe UI', 'SF Pro Rounded', Ubuntu, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 3px; fill: #A6ADC8; }
+  .n { font: 800 36px 'Nunito', 'Segoe UI', 'SF Pro Rounded', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #CDD6F4; }
+  .l { font: 600 12px 'Nunito', 'Segoe UI', 'SF Pro Rounded', Ubuntu, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 1.2px; fill: #A6ADC8; }
+  .s { font: 600 13px 'Nunito', 'Segoe UI', 'SF Pro Rounded', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #CDD6F4; }
   .bar { transform-box: fill-box; transform-origin: bottom; animation: grow .9s cubic-bezier(.2,.8,.2,1) both; }
   @keyframes grow { from { transform: scaleY(0); } }
   .fade { animation: fade .8s ease-out both; }
   @keyframes fade { from { opacity: 0; } }
 </style>
-<rect x="0.5" y="0.5" width="839" height="149" rx="14" fill="#14151D" stroke="#262838"/>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1E1E2E"/><stop offset="1" stop-color="#11111B"/>
+  </linearGradient>
+  <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+    <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.05"/>
+    <stop offset="1" stop-color="#CBA6F7" stop-opacity="0.3"/>
+  </linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+  <clipPath id="frame"><rect width="840" height="150" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="840" height="150" fill="url(#bg)"/>
+  <g filter="url(#blur)" opacity="0.35">
+    <circle cx="84" cy="0" r="110" fill="#CBA6F7"/>
+    <circle cx="773" cy="150" r="120" fill="#F5C2E7"/>
+  </g>
+</g>
+<rect x="0.75" y="0.75" width="838.5" height="148.5" rx="21.25" fill="none" stroke="url(#rim)" stroke-width="1.5"/>
 <text x="28" y="40" class="h">LANGUAGES</text>
 <text x="812" y="40" class="l" text-anchor="end">public repos · by code size</text>
 <clipPath id="track"><rect x="28" y="60" width="784" height="12" rx="6"/></clipPath>
