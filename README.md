@@ -90,8 +90,6 @@ twitches that fire on their own and ease in and out over a few frames.
 | 🎞️ **[Flinch](https://github.com/xjuanfxx/flinch)** | Random jolts for After Effects — CPU + GPU (CUDA, OpenCL, Metal) |
 | 🐱 **[LiquidCat](https://github.com/Kittora/LiquidCat)** | Download, convert and re-encode media — Rust + Slint, with Kittora |
 | 📸 **[JuanFX-Lightroom](https://github.com/xjuanfxx/JuanFX-Lightroom)** | Version history and updates for my Lightroom presets |
-| 😀 **[EmojiReplace](https://github.com/xjuanfxx/EmojiReplace)** | Swap Discord's emojis for another provider's (Apple, Facebook…) |
-
 ## 📊 Activity
 
 <p align="center">
