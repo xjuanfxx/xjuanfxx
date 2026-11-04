@@ -33,7 +33,7 @@
 <text x="28" y="40" class="h">ACTIVITY</text>
 <text x="812" y="40" class="l" text-anchor="end">on GitHub since 2023</text>
 <g class="fade" style="animation-delay:0ms"><text x="28" y="88" class="n" fill="#CDD6F4" style="fill:#CDD6F4">213</text><text x="28" y="110" class="l">CONTRIBUTIONS</text></g>
-<g class="fade" style="animation-delay:80ms"><text x="185" y="88" class="n" fill="#F5C2E7" style="fill:#F5C2E7">2</text><text x="185" y="110" class="l">CURRENT STREAK</text></g>
+<g class="fade" style="animation-delay:80ms"><text x="185" y="88" class="n" fill="#F5C2E7" style="fill:#F5C2E7">0</text><text x="185" y="110" class="l">CURRENT STREAK</text></g>
 <g class="fade" style="animation-delay:160ms"><text x="342" y="88" class="n" fill="#CDD6F4" style="fill:#CDD6F4">9</text><text x="342" y="110" class="l">LONGEST STREAK</text></g>
 <g class="fade" style="animation-delay:240ms"><text x="498" y="88" class="n" fill="#CDD6F4" style="fill:#CDD6F4">5</text><text x="498" y="110" class="l">PUBLIC REPOS</text></g>
 <g class="fade" style="animation-delay:320ms"><text x="655" y="88" class="n" fill="#CDD6F4" style="fill:#CDD6F4">3</text><text x="655" y="110" class="l">STARS</text></g>
