@@ -16,7 +16,7 @@ between I make intros and beats as **prodxvex**.
 ## ⚡ Now building: Flinch
 
 <a href="https://github.com/xjuanfxx/flinch">
-  <img src="assets/flinch-banner.png" alt="Flinch — random jolts for After Effects" width="100%">
+  <img src="assets/flinch-banner.webp" alt="Flinch — random jolts for After Effects" width="100%">
 </a>
 
 **[Flinch](https://github.com/xjuanfxx/flinch)** is an After Effects effect that adds short, random,
