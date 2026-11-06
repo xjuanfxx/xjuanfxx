@@ -24,8 +24,10 @@
       <stop offset="1" stop-color="#CBA6F7"/>
       <animateTransform attributeName="gradientTransform" type="translate" values="0 0; 600 0; 0 0" dur="10s" repeatCount="indefinite"/>
     </linearGradient>
-    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="46"/></filter>
-    <filter id="soft" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="14"/></filter>
+    <!-- soft blobs as radial gradients: filters would be re-run on every frame -->
+    <radialGradient id="mauve"><stop offset="0" stop-color="#CBA6F7" stop-opacity="0.5"/><stop offset="0.55" stop-color="#CBA6F7" stop-opacity="0.18"/><stop offset="1" stop-color="#CBA6F7" stop-opacity="0"/></radialGradient>
+    <radialGradient id="pink"><stop offset="0" stop-color="#F5C2E7" stop-opacity="0.4"/><stop offset="0.55" stop-color="#F5C2E7" stop-opacity="0.14"/><stop offset="1" stop-color="#F5C2E7" stop-opacity="0"/></radialGradient>
+    <radialGradient id="blue"><stop offset="0" stop-color="#89B4FA" stop-opacity="0.35"/><stop offset="0.55" stop-color="#89B4FA" stop-opacity="0.12"/><stop offset="1" stop-color="#89B4FA" stop-opacity="0"/></radialGradient>
     <clipPath id="frame"><rect width="1200" height="320" rx="28"/></clipPath>
     <path id="spark" d="M0 -22 C3 -6 6 -3 22 0 C6 3 3 6 0 22 C-3 6 -6 3 -22 0 C-6 -3 -3 -6 0 -22 Z"/>
   </defs>
@@ -51,11 +53,9 @@
     <rect width="1200" height="320" fill="url(#bg)"/>
 
     <!-- liquid blobs behind the glass -->
-    <g filter="url(#blur)">
-      <circle class="b1" cx="300" cy="90" r="150" fill="#CBA6F7" opacity="0.55"/>
-      <circle class="b2" cx="900" cy="240" r="170" fill="#F5C2E7" opacity="0.4"/>
-      <circle class="b3" cx="640" cy="40" r="110" fill="#89B4FA" opacity="0.35"/>
-    </g>
+    <circle class="b1" cx="300" cy="90" r="260" fill="url(#mauve)"/>
+    <circle class="b2" cx="900" cy="240" r="280" fill="url(#pink)"/>
+    <circle class="b3" cx="640" cy="40" r="200" fill="url(#blue)"/>
 
     <!-- glass card -->
     <g class="float">
@@ -71,7 +71,6 @@
         <g transform="skewX(-20)"><rect class="shine" x="0" y="0" width="180" height="320" fill="url(#streak)"/></g>
       </g>
 
-      <text x="600" y="186" text-anchor="middle" class="name" fill="#CBA6F7" opacity="0.5" filter="url(#soft)">JuanFX</text>
       <text x="600" y="186" text-anchor="middle" class="name" fill="url(#ink)">JuanFX</text>
       <text x="600" y="238" text-anchor="middle" class="sub">MOTION DESIGN · AFTER EFFECTS PLUGINS · BEATS</text>
 
