@@ -36,7 +36,7 @@
 <g class="fade" style="animation-delay:80ms"><text x="185" y="88" class="n" fill="#F5C2E7" style="fill:#F5C2E7">2</text><text x="185" y="110" class="l">CURRENT STREAK</text></g>
 <g class="fade" style="animation-delay:160ms"><text x="342" y="88" class="n" fill="#CDD6F4" style="fill:#CDD6F4">9</text><text x="342" y="110" class="l">LONGEST STREAK</text></g>
 <g class="fade" style="animation-delay:240ms"><text x="498" y="88" class="n" fill="#CDD6F4" style="fill:#CDD6F4">6</text><text x="498" y="110" class="l">PUBLIC REPOS</text></g>
-<g class="fade" style="animation-delay:320ms"><text x="655" y="88" class="n" fill="#CDD6F4" style="fill:#CDD6F4">4</text><text x="655" y="110" class="l">STARS</text></g>
+<g class="fade" style="animation-delay:320ms"><text x="655" y="88" class="n" fill="#CDD6F4" style="fill:#CDD6F4">5</text><text x="655" y="110" class="l">STARS</text></g>
 <line x1="28" y1="202.5" x2="812" y2="202.5" stroke="#313244"/>
 <rect class="bar" style="animation-delay:300ms" x="28.0" y="199.0" width="12.1" height="3.0" rx="2" fill="#313244"><title>0 contributions</title></rect>
 <rect class="bar" style="animation-delay:312ms" x="43.1" y="199.0" width="12.1" height="3.0" rx="2" fill="#313244"><title>0 contributions</title></rect>
