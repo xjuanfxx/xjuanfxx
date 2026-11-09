@@ -90,6 +90,8 @@ twitches that fire on their own and ease in and out over a few frames.
 | 🎞️ **[Flinch](https://github.com/xjuanfxx/flinch)** | Random jolts for After Effects — CPU + GPU (CUDA, OpenCL, Metal) |
 | 🐱 **[LiquidCat](https://github.com/Kittora/LiquidCat)** | Download, convert and re-encode media — Rust + Slint, with Kittora |
 | 📸 **[JuanFX-Lightroom](https://github.com/xjuanfxx/JuanFX-Lightroom)** | Version history and updates for my Lightroom presets |
+| 🔊 **[YouTube Loudness Unchained](https://github.com/xjuanfxx/yt-loudness-unchained)** | Userscript that turns off YouTube's volume normalization — hear the original master |
+
 ## 📊 Activity
 
 <p align="center">
