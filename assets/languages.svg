@@ -34,15 +34,15 @@
 <text x="812" y="40" class="l" text-anchor="end">public repos · by code size</text>
 <clipPath id="track"><rect x="28" y="60" width="784" height="12" rx="6"/></clipPath>
 <g clip-path="url(#track)">
-<rect class="fade" style="animation-delay:0ms" x="28.0" y="60" width="386.7" height="12" fill="#f1e05a"/>
-<rect class="fade" style="animation-delay:90ms" x="413.7" y="60" width="303.7" height="12" fill="#f34b7d"/>
-<rect class="fade" style="animation-delay:180ms" x="716.4" y="60" width="32.9" height="12" fill="#3572A5"/>
-<rect class="fade" style="animation-delay:270ms" x="748.3" y="60" width="28.0" height="12" fill="#DA3434"/>
-<rect class="fade" style="animation-delay:360ms" x="775.3" y="60" width="27.9" height="12" fill="#555555"/>
-<rect class="fade" style="animation-delay:450ms" x="802.1" y="60" width="10.9" height="12" fill="#6866fb"/>
+<rect class="fade" style="animation-delay:0ms" x="28.0" y="60" width="384.6" height="12" fill="#f1e05a"/>
+<rect class="fade" style="animation-delay:90ms" x="411.6" y="60" width="305.5" height="12" fill="#f34b7d"/>
+<rect class="fade" style="animation-delay:180ms" x="716.2" y="60" width="32.8" height="12" fill="#3572A5"/>
+<rect class="fade" style="animation-delay:270ms" x="748.0" y="60" width="27.8" height="12" fill="#DA3434"/>
+<rect class="fade" style="animation-delay:360ms" x="774.8" y="60" width="27.7" height="12" fill="#555555"/>
+<rect class="fade" style="animation-delay:450ms" x="801.5" y="60" width="11.5" height="12" fill="#6866fb"/>
 </g>
-<g class="fade" style="animation-delay:300ms"><circle cx="34" cy="96" r="6" fill="#f1e05a"/><text x="48" y="100" class="s">JavaScript</text><text x="265" y="100" class="l" text-anchor="end">49.2%</text></g>
-<g class="fade" style="animation-delay:360ms"><circle cx="295" cy="96" r="6" fill="#f34b7d"/><text x="309" y="100" class="s">C++</text><text x="527" y="100" class="l" text-anchor="end">38.6%</text></g>
+<g class="fade" style="animation-delay:300ms"><circle cx="34" cy="96" r="6" fill="#f1e05a"/><text x="48" y="100" class="s">JavaScript</text><text x="265" y="100" class="l" text-anchor="end">48.9%</text></g>
+<g class="fade" style="animation-delay:360ms"><circle cx="295" cy="96" r="6" fill="#f34b7d"/><text x="309" y="100" class="s">C++</text><text x="527" y="100" class="l" text-anchor="end">38.8%</text></g>
 <g class="fade" style="animation-delay:420ms"><circle cx="557" cy="96" r="6" fill="#3572A5"/><text x="571" y="100" class="s">Python</text><text x="788" y="100" class="l" text-anchor="end">4.1%</text></g>
 <g class="fade" style="animation-delay:480ms"><circle cx="34" cy="122" r="6" fill="#DA3434"/><text x="48" y="126" class="s">CMake</text><text x="265" y="126" class="l" text-anchor="end">3.4%</text></g>
 <g class="fade" style="animation-delay:540ms"><circle cx="295" cy="122" r="6" fill="#555555"/><text x="309" y="126" class="s">C</text><text x="527" y="126" class="l" text-anchor="end">3.4%</text></g>
