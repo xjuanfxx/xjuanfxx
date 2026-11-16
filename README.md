@@ -35,6 +35,28 @@ twitches that fire on their own and ease in and out over a few frames.
   <img src="https://img.shields.io/badge/GPU-CUDA%20·%20OpenCL%20·%20Metal-CBA6F7?style=flat-square&logo=nvidia&logoColor=white&labelColor=1E1E2E" alt="GPU">
 </p>
 
+## 🎨 Also new: AeTint
+
+<a href="https://github.com/xjuanfxx/AeTint">
+  <img src="assets/aetint-banner.webp" alt="AeTint — full themes for After Effects on Windows" width="100%">
+</a>
+
+**[AeTint](https://github.com/xjuanfxx/AeTint)** recolours After Effects with your own palette — including
+the parts other theming tools can't reach: the timeline's **time navigator**, the **Home screen**,
+the **File / Edit…** menus and the **title bar**.
+
+- 🎨 Six colours drive hundreds of Adobe greys, with separate **dark** (Darkest/Dark) and **light** palettes and presets like Catppuccin, Tokyo Night, Rosé Pine, Nord and Gruvbox
+- 🧩 Rewrites `dvaui.dll`, the timeline colour table and the Home screen styles in place, and paints Win32 menus through a tiny `.aex` plugin — no background process needed
+- 🛡️ Originals backed up with one-click restore; per-user installer with update check
+- 🦀 Rust + Slint, Windows 10/11, After Effects 2026 and 2027
+
+<p>
+  <a href="https://github.com/xjuanfxx/AeTint/releases/latest"><img src="https://img.shields.io/github/v/release/xjuanfxx/AeTint?style=flat-square&label=latest&color=F5C2E7&labelColor=1E1E2E" alt="Latest release"></a>
+  <img src="https://img.shields.io/badge/After_Effects-2026%20·%202027-CBA6F7?style=flat-square&logo=adobeaftereffects&logoColor=white&labelColor=1E1E2E" alt="After Effects 2026 · 2027">
+  <img src="https://img.shields.io/badge/Rust-Slint-CBA6F7?style=flat-square&logo=rust&logoColor=white&labelColor=1E1E2E" alt="Rust + Slint">
+  <img src="https://img.shields.io/badge/Windows-10%20·%2011-CBA6F7?style=flat-square&logo=windows&logoColor=white&labelColor=1E1E2E" alt="Windows 10 · 11">
+</p>
+
 ## 🐾 Kittora
 
 <table>
