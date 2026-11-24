@@ -34,17 +34,17 @@
 <text x="812" y="40" class="l" text-anchor="end">public repos · by code size</text>
 <clipPath id="track"><rect x="28" y="60" width="784" height="12" rx="6"/></clipPath>
 <g clip-path="url(#track)">
-<rect class="fade" style="animation-delay:0ms" x="28.0" y="60" width="291.7" height="12" fill="#f34b7d"/>
-<rect class="fade" style="animation-delay:90ms" x="318.7" y="60" width="209.3" height="12" fill="#dea584"/>
-<rect class="fade" style="animation-delay:180ms" x="527.1" y="60" width="172.3" height="12" fill="#f1e05a"/>
-<rect class="fade" style="animation-delay:270ms" x="698.3" y="60" width="61.3" height="12" fill="#2379F4"/>
-<rect class="fade" style="animation-delay:360ms" x="758.6" y="60" width="27.9" height="12" fill="#DA3434"/>
-<rect class="fade" style="animation-delay:450ms" x="785.5" y="60" width="27.5" height="12" fill="#555555"/>
+<rect class="fade" style="animation-delay:0ms" x="28.0" y="60" width="284.5" height="12" fill="#f34b7d"/>
+<rect class="fade" style="animation-delay:90ms" x="311.5" y="60" width="219.6" height="12" fill="#dea584"/>
+<rect class="fade" style="animation-delay:180ms" x="530.1" y="60" width="168.0" height="12" fill="#f1e05a"/>
+<rect class="fade" style="animation-delay:270ms" x="697.1" y="60" width="63.9" height="12" fill="#2379F4"/>
+<rect class="fade" style="animation-delay:360ms" x="760.0" y="60" width="27.2" height="12" fill="#DA3434"/>
+<rect class="fade" style="animation-delay:450ms" x="786.2" y="60" width="26.8" height="12" fill="#555555"/>
 </g>
-<g class="fade" style="animation-delay:300ms"><circle cx="34" cy="96" r="6" fill="#f34b7d"/><text x="48" y="100" class="s">C++</text><text x="265" y="100" class="l" text-anchor="end">37.1%</text></g>
-<g class="fade" style="animation-delay:360ms"><circle cx="295" cy="96" r="6" fill="#dea584"/><text x="309" y="100" class="s">Rust</text><text x="527" y="100" class="l" text-anchor="end">26.6%</text></g>
-<g class="fade" style="animation-delay:420ms"><circle cx="557" cy="96" r="6" fill="#f1e05a"/><text x="571" y="100" class="s">JavaScript</text><text x="788" y="100" class="l" text-anchor="end">21.8%</text></g>
-<g class="fade" style="animation-delay:480ms"><circle cx="34" cy="122" r="6" fill="#2379F4"/><text x="48" y="126" class="s">Slint</text><text x="265" y="126" class="l" text-anchor="end">7.7%</text></g>
-<g class="fade" style="animation-delay:540ms"><circle cx="295" cy="122" r="6" fill="#DA3434"/><text x="309" y="126" class="s">CMake</text><text x="527" y="126" class="l" text-anchor="end">3.4%</text></g>
-<g class="fade" style="animation-delay:600ms"><circle cx="557" cy="122" r="6" fill="#555555"/><text x="571" y="126" class="s">C</text><text x="788" y="126" class="l" text-anchor="end">3.4%</text></g>
+<g class="fade" style="animation-delay:300ms"><circle cx="34" cy="96" r="6" fill="#f34b7d"/><text x="48" y="100" class="s">C++</text><text x="265" y="100" class="l" text-anchor="end">36.2%</text></g>
+<g class="fade" style="animation-delay:360ms"><circle cx="295" cy="96" r="6" fill="#dea584"/><text x="309" y="100" class="s">Rust</text><text x="527" y="100" class="l" text-anchor="end">27.9%</text></g>
+<g class="fade" style="animation-delay:420ms"><circle cx="557" cy="96" r="6" fill="#f1e05a"/><text x="571" y="100" class="s">JavaScript</text><text x="788" y="100" class="l" text-anchor="end">21.3%</text></g>
+<g class="fade" style="animation-delay:480ms"><circle cx="34" cy="122" r="6" fill="#2379F4"/><text x="48" y="126" class="s">Slint</text><text x="265" y="126" class="l" text-anchor="end">8.0%</text></g>
+<g class="fade" style="animation-delay:540ms"><circle cx="295" cy="122" r="6" fill="#DA3434"/><text x="309" y="126" class="s">CMake</text><text x="527" y="126" class="l" text-anchor="end">3.3%</text></g>
+<g class="fade" style="animation-delay:600ms"><circle cx="557" cy="122" r="6" fill="#555555"/><text x="571" y="126" class="s">C</text><text x="788" y="126" class="l" text-anchor="end">3.3%</text></g>
 </svg>
